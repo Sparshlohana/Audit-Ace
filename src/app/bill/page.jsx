@@ -67,7 +67,7 @@ const page = () => {
                     <button className='bg-[#d73cbe] text-white w-40 py-2 rounded-lg'>Learn More</button>
                 </div>
                 <div className='w-1/2 relative'>
-                    <Image src={"/bill-bubblu.gif"} height={600} width={600} className='' alt='bubble-3' />
+                    <Image src={"/bill-bubbu.gif"} height={600} width={600} className='' alt='bubble-3' />
                     <video src="/coding.mp4" className='rounded-full absolute top-28 left-10 w-[350px] h-[350px] object-cover' autoPlay loop muted></video>
 
                 </div>
