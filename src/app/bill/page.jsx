@@ -1,8 +1,56 @@
-import { LogoIcon } from '@/components/Icons'
-import Image from 'next/image'
-import React from 'react'
+"use client";
+
+import { LogoIcon } from '@/components/Icons';
+import Image from 'next/image';
+import { useState } from 'react';
 
 const page = () => {
+    const [selectedImage, setSelectedImage] = useState(null);
+    const [selectedProof, setSelectedProof] = useState(null);
+
+    console.log(selectedImage, selectedProof);
+
+    const uploadImage = (event) => {
+        const file = event.target.files[0];
+        if (file) {
+            setSelectedImage(file);
+        }
+    };
+
+    const uploadProof = (event) => {
+        const file = event.target.files[0];
+        if (file) {
+            setSelectedProof(file);
+        }
+    };
+
+    const continueToUpload = async () => {
+        if (!selectedImage || !selectedProof) {
+            alert('Please select both an image and a proof before continuing.');
+            return;
+        }
+
+        const formData = new FormData();
+        formData.append('payment_bill', selectedImage);
+        formData.append('proof_for_payment_bill', selectedProof);
+
+        try {
+            const response = await fetch('http://localhost:5000/upload', {
+                method: 'POST',
+                body: formData,
+            });
+
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+
+            const data = await response.json();
+            console.log(data);
+        } catch (error) {
+            console.error('There was a problem with the fetch operation:', error);
+        }
+    };
+
     return (
         <>
             <nav class="bg-[#2C1E4A] h-12 text-end text-sm fixed w-full text-white top-0 z-10 py-4 px-5">
@@ -43,19 +91,44 @@ const page = () => {
                 <h1 className='text-6xl mt-10 text-center'>STEPS TO UPLOAD A BILL</h1>
                 <div className='flex justify-center mt-32 gap-20'>
                     <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
-                        <p className='text-black text-xl mt-2'>Step 1</p>
+                        <p className='text-black text-xl mt-2'>STEP 1</p>
                         <p className='text-[#d73cbe] text-4xl text-center mt-6'>Upload Image</p>
-                        <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-16'>Upload Now</button>
+                        <input type="file" onChange={uploadImage} id="imageUpload" hidden />
+                        <button onClick={() => document.getElementById('imageUpload').click()} className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-16'>Upload Now</button>
                     </div>
                     <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
                         <p className='text-black text-xl mt-2'>STEP 2</p>
                         <p className='text-[#d73cbe] text-4xl text-center mt-6'>UPLOAD PROOF</p>
-                        <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-16'>Upload Now</button>
+                        <input type="file" onChange={uploadProof} id="proofUpload" hidden />
+                        <button onClick={() => document.getElementById('proofUpload').click()} className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-16'>Upload Now</button>
                     </div>
                     <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
                         <p className='text-black text-xl mt-2'>STEP 3</p>
                         <p className='text-[#d73cbe] text-4xl text-center mt-6'>CONFIRM JOURNAL ENTRY</p>
-                        <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>Upload Now</button>
+                        <button onClick={continueToUpload} className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>Continue</button>
+                    </div>
+                </div>
+            </div>
+
+            <div style={{ backgroundImage: "url('bill-bg.jpg')" }} class="flex text-white px-56 py-20 h-screen w-full flex-col" >
+                <h1 className='text-6xl mt-10 text-center'>STEPS TO CREATE E-BILL</h1>
+                <div className='flex justify-center mt-32 gap-20'>
+                    <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
+                        <p className='text-black text-xl mt-2'>STEP 1</p>
+                        <p className='text-[#d73cbe] text-4xl text-center mt-6'>FILL & UPLOAD E-BILL</p>
+                        {/* <input type="file" onChange={uploadImage} id="imageUpload" hidden /> */}
+                        <button onClick={() => document.getElementById('test').click()} className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>FILL AND UPLOAD</button>
+                    </div>
+                    <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
+                        <p className='text-black text-xl mt-2'>STEP 2</p>
+                        <p className='text-[#d73cbe] text-4xl text-center mt-6'>UPLOAD PROOF</p>
+                        {/* <input type="file" onChange={uploadProof} id="proofUpload" hidden /> */}
+                        <button onClick={() => document.getElementById('test').click()} className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-16'>Upload Now</button>
+                    </div>
+                    <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
+                        <p className='text-black text-xl mt-2'>STEP 3</p>
+                        <p className='text-[#d73cbe] text-4xl text-center mt-6'>CONFIRM JOURNAL ENTRY</p>
+                        <button onClick={continueToUpload} className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>Continue</button>
                     </div>
                 </div>
             </div>
@@ -77,7 +150,7 @@ const page = () => {
                 <h1 className='text-6xl mt-10 text-center'>STEPS TO PASS MANUAL ENTRY</h1>
                 <div className='flex justify-center mt-32 gap-20'>
                     <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
-                        <p className='text-black text-xl mt-2'>Step 1</p>
+                        <p className='text-black text-xl mt-2'>STEP 1</p>
                         <p className='text-[#d73cbe] text-4xl text-center mt-6 uppercase'>pass manual entry</p>
                         <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>Upload Now</button>
                     </div>
