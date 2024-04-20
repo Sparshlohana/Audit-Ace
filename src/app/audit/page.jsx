@@ -1,30 +1,47 @@
+import { AuditIcon, HistoryIcon, ManualIcon, NormalIcon, SuspiciousIcon, UserIcon } from '@/components/Icons'
 import React from 'react'
 
 const page = () => {
     return (
-        <div className='text-white mt-5'>
-            <h1 className='text-3xl text-bold text-center underline'>Suspicious</h1>
-            <div className='flex p-10 h-[70vh] items-center'>
-                <div className='w-1/3 flex flex-col justify-center items-center'>
-                    <div className='border-2 w-2/3 border-white  h-[300px] rounded-lg'>
-
+        <>
+            <div style={{ backgroundImage: 'url("/audit-bg.jpg")' }} className='text-white h-screen w-screen bg-cover flex justify-center items-center flex-col gap-5'>
+                <h1 className='text-6xl'>Audit</h1>
+                <p>SHH! ... ITS A SECRET !</p>
+                <div style={{ backgroundImage: 'url("/audit-bg2.jpg")' }} className='flex flex-col justify-between  w-[550px] h-[350px] p-16 mt-10'>
+                    <div className='flex justify-between items-center'>
+                        <div className='flex flex-col justify-center items-center'>
+                            <HistoryIcon />
+                            <p>History</p>
+                        </div>
+                        <div className='flex flex-col justify-center items-center'>
+                            <UserIcon />
+                            <p>User</p>
+                        </div>
+                        <div className='flex flex-col justify-center items-center'>
+                            <AuditIcon />
+                            <p>CRYPTO</p>
+                        </div>
                     </div>
-                    <h2 className='text-3xl text-center mt-2 underline'>Suspicious</h2>
+                    <div className='flex justify-between items-center'>
+                        <div className='flex flex-col justify-center items-center'>
+                            <NormalIcon />
+                            <p>Normal</p>
+                        </div>
+                        <div className='flex flex-col justify-center items-center'>
+                            <SuspiciousIcon />
+                            <p>SUSPICIOUS</p>
+                        </div>
+                        <div className='flex flex-col justify-center items-center'>
+                            <ManualIcon />
+                            <p>Manual</p>
+                        </div>
+                    </div>
                 </div>
-                <div className='w-1/3 flex flex-col justify-center items-center'>
-                    <div className='border-2 w-2/3 border-white h-[300px] rounded-lg'>
-
-                    </div>
-                    <h2 className='text-3xl text-center mt-2 underline'>Unsuspicious</h2>
-                </div>
-                <div className='w-1/3 flex flex-col justify-center items-center'>
-                    <div className='border-2 w-2/3 border-white h-[300px] rounded-lg'>
-
-                    </div>
-                    <h2 className='text-3xl text-center mt-2 underline'>Manual</h2>
+                <div className='mt-4'>
+                    <p className='text-2xl'>CLICK THIS LINK FOR HELP</p>
                 </div>
             </div>
-        </div>
+        </>
     )
 }
 
