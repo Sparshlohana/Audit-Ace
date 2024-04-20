@@ -1,6 +1,7 @@
 import Background from "@/components/Background";
 import { FacebookIcon, InstaIcon, LogoIcon, PinterestIcon, TwitterIcon } from "@/components/Icons";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -38,7 +39,7 @@ export default function Home() {
             <Image src={"/bubble.gif"} width={500} height={500} alt="gif"></Image>
           </div>
           <div className="mx-14 flex flex-col gap-20 mb-48 w-[1000px] text-white">
-            <h3 className="text-5xl">About</h3> 
+            <h3 className="text-5xl">About</h3>
             <p className="text-lg tracking-wider">{`Our website revolutionizes traditional accounting with machine learning, automating bill extraction and journal entry creation. It ensures accuracy by recognizing details from both handwritten and digital invoices. The platform enhances security through blockchain integration, providing tamper-proof records. Advanced ML algorithms detect irregular patterns for audits, while an AI-powered chatbot offers instant assistance. This innovative approach streamlines the accounting process, reduces errors, and empowers accountants with efficient audit management.
 
 `}</p>
@@ -48,27 +49,31 @@ export default function Home() {
         <div className="text-white mt-16">
           <h2 className="text-4xl text-center ">What would you like to do?</h2>
           <div className="flex items-center justify-center gap-16 mt-10">
-            <div className="flex flex-col w-[300px]">
-              <Image src={"/ebill.webp"} width={300} height={500} alt="ebill" />
-              <div className="flex flex-col bg-white h-32 justify-center items-center p-9">
-                <h4 className="text-[#d945c1] text-2xl">BILLS</h4>
-                <p className="text-black text-center">UPLOAD, CREATE AND VIEW BILLS AND E-BILLS</p>
+            <Link href={`/bill`}>
+              <div className="cursor-pointer flex flex-col w-[300px]">
+                <Image src={"/ebill.webp"} width={300} height={500} alt="ebill" />
+                <div className=" flex flex-col bg-white h-32 justify-center items-center p-9">
+                  <h4 className="text-[#d945c1] text-2xl">BILLS</h4>
+                  <p className="text-black text-center">UPLOAD, CREATE AND VIEW BILLS AND E-BILLS</p>
+                </div>
               </div>
-            </div>
-            <div className="flex flex-col w-[300px]">
+            </Link>
+            <div className="cursor-pointer flex flex-col w-[300px]">
               <Image src={"/audit.webp"} width={300} height={500} className="object-cover h-[425px]" alt="ebill" />
               <div className="flex flex-col bg-white h-32 justify-center items-center p-9">
                 <h4 className="text-[#d945c1] text-2xl">AUDIT</h4>
                 <p className="text-black text-center">TRACK INTERNAL AUDITS AND PERFORM YEAR END AUDIT</p>
               </div>
             </div>
-            <div className="flex flex-col w-[300px]">
-              <Image src={"/view.png"} width={300} height={500} className="object-cover h-[425px]" alt="ebill" />
-              <div className="flex flex-col bg-white h-32 justify-center items-center p-9">
-                <h4 className="text-[#d945c1] text-2xl">VIEW</h4>
-                <p className="text-black text-center">VIEW LEDGER FOLIO AND TRIAL BALANCE ON COMMAND</p>
+            <Link href={`/view`}>
+              <div className="cursor-pointer flex flex-col w-[300px]">
+                <Image src={"/view.png"} width={300} height={500} className="object-cover h-[425px]" alt="ebill" />
+                <div className="flex flex-col bg-white h-32 justify-center items-center p-9">
+                  <h4 className="text-[#d945c1] text-2xl">VIEW</h4>
+                  <p className="text-black text-center">VIEW LEDGER FOLIO AND TRIAL BALANCE ON COMMAND</p>
+                </div>
               </div>
-            </div>
+            </Link>
           </div>
         </div>
       </div>
