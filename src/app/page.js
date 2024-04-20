@@ -1,5 +1,5 @@
 import Background from "@/components/Background";
-import { LogoIcon } from "@/components/Icons";
+import { FacebookIcon, InstaIcon, LogoIcon, PinterestIcon, TwitterIcon } from "@/components/Icons";
 import Image from "next/image";
 
 export default function Home() {
@@ -37,9 +37,11 @@ export default function Home() {
           <div className="mx-28">
             <Image src={"/bubble.gif"} width={500} height={500} alt="gif"></Image>
           </div>
-          <div className="mx-14 flex flex-col gap-20 mb-48 text-white">
+          <div className="mx-14 flex flex-col gap-20 mb-48 w-[1000px] text-white">
             <h3 className="text-5xl">About</h3>
-            <p className="text-lg tracking-wider">security is the key bla bla blaaa</p>
+            <p className="text-lg tracking-wider">{`Our website revolutionizes traditional accounting with machine learning, automating bill extraction and journal entry creation. It ensures accuracy by recognizing details from both handwritten and digital invoices. The platform enhances security through blockchain integration, providing tamper-proof records. Advanced ML algorithms detect irregular patterns for audits, while an AI-powered chatbot offers instant assistance. This innovative approach streamlines the accounting process, reduces errors, and empowers accountants with efficient audit management.
+
+`}</p>
           </div>
         </div>
 
@@ -75,22 +77,35 @@ export default function Home() {
         <video autoPlay loop muted className="absolute -z-10">
           <source src="/bg.mp4" />
         </video>
-        <div>
-          <h2>NEED HELP?</h2>
+        <div className="flex justify-between items-center">
           <div>
-            <h4>Phone</h4>
-            <p>(123) 456-7890</p>
+            <h2 className="text-5xl text-white mx-36 py-10">NEED HELP?</h2>
+            <div className="flex flex-col text-white mx-36 py-24 gap-10">
+              <div className="flex flex-col gap-5 text-2xl">
+                <h4 className="text-4xl">Phone</h4>
+                <p className="text-[#d73cbe]">(123) 456-7890</p>
+              </div>
+              <div className="flex flex-col gap-5 text-2xl">
+                <h4 className="text-4xl">EMAIL</h4>
+                <p className="text-[#d73cbe]">hello@reallygreatsite.com</p>
+              </div>
+              <div className="flex flex-col gap-5 text-2xl">
+                <h4 className="text-4xl">SOCIAL</h4>
+                <div className="flex border w-fit p-2 border-white gap-4">
+                  <InstaIcon className="cursor-pointer" />
+                  <TwitterIcon className="cursor-pointer" />
+                  <PinterestIcon className="cursor-pointer" />
+                  <FacebookIcon className="cursor-pointer" />
+                </div>
+              </div>
+            </div>
           </div>
-          <div>
-            <h4>EMAIL</h4>
-            <p>hello@reallygreatsite.com</p>
-          </div>
-          <div>
-            <h4>SOCIAL</h4>
-            <p>(123) 456-7890</p>
+          <div className="flex flex-col gap-5 mx-36 ">
+            <Image src={'/bot.png'} height={350} width={350} alt="bot" />
+            <button className="text-white mr-5 text-4xl">CHAT WITH BOT</button>
           </div>
         </div>
-      </div>
+      </div >
     </>
   );
 }
