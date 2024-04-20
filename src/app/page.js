@@ -38,7 +38,7 @@ export default function Home() {
             <Image src={"/bubble.gif"} width={500} height={500} alt="gif"></Image>
           </div>
           <div className="mx-14 flex flex-col gap-20 mb-48 w-[1000px] text-white">
-            <h3 className="text-5xl">About</h3>
+            <h3 className="text-5xl">About</h3> 
             <p className="text-lg tracking-wider">{`Our website revolutionizes traditional accounting with machine learning, automating bill extraction and journal entry creation. It ensures accuracy by recognizing details from both handwritten and digital invoices. The platform enhances security through blockchain integration, providing tamper-proof records. Advanced ML algorithms detect irregular patterns for audits, while an AI-powered chatbot offers instant assistance. This innovative approach streamlines the accounting process, reduces errors, and empowers accountants with efficient audit management.
 
 `}</p>
