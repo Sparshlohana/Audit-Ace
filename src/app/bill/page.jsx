@@ -60,7 +60,7 @@ const page = () => {
                 </div>
             </div>
 
-            <div style={{ backgroundImage: "url('bill-bg.jpg')" }} class="flex text-white gap-20 px-56 py-20 h-screen w-full justify-center" >
+            <div style={{ backgroundImage: "url('bill-bg.jpg')" }} class="flex text-white gap-20 px-56 h-screen w-full justify-center py-32" >
                 <div className='flex w-1/2 flex-col border border-white h-[450px] p-10 gap-10'>
                     <h2 className='text-6xl'>PASS ENTRY MANUALLY?</h2>
                     <p className='text-2xl'>NEED TO PASS A SATISFACTORY ENTRY MANUALLY BUT SECURELY? WE GOT YOU!</p>
@@ -68,7 +68,29 @@ const page = () => {
                 </div>
                 <div className='w-1/2 relative'>
                     <Image src={"/bill-bubblu.gif"} height={600} width={600} className='' alt='bubble-3' />
-                    <video src="/coding.mp4" className='ab' autoPlay loop mute></video>
+                    <video src="/coding.mp4" className='rounded-full absolute top-28 left-10 w-[350px] h-[350px] object-cover' autoPlay loop muted></video>
+
+                </div>
+            </div>
+
+            <div style={{ backgroundImage: "url('bill-bg.jpg')" }} class="flex text-white px-56 py-20 h-screen w-full flex-col" >
+                <h1 className='text-6xl mt-10 text-center'>STEPS TO PASS MANUAL ENTRY</h1>
+                <div className='flex justify-center mt-32 gap-20'>
+                    <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
+                        <p className='text-black text-xl mt-2'>Step 1</p>
+                        <p className='text-[#d73cbe] text-4xl text-center mt-6 uppercase'>pass manual entry</p>
+                        <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>Upload Now</button>
+                    </div>
+                    <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
+                        <p className='text-black text-xl mt-2'>STEP 2</p>
+                        <p className='text-[#d73cbe] text-4xl text-center mt-6'>UPLOAD PROOF</p>
+                        <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-16'>Upload Now</button>
+                    </div>
+                    <div className='h-72 w-72 bg-white flex flex-col px-20 items-center rounded-md shadow-lg'>
+                        <p className='text-black text-xl mt-2'>STEP 3</p>
+                        <p className='text-[#d73cbe] text-4xl text-center mt-6'>CONFIRM JOURNAL ENTRY</p>
+                        <button className='bg-[#2c1e4a] w-40 py-2 rounded-lg mt-6'>Upload Now</button>
+                    </div>
                 </div>
             </div>
         </>
