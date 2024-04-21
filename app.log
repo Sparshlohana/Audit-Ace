@@ -1,0 +1,2254 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 03:42:04] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 03:50:25] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 03:50:26] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 03:50:32] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 03:50:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:21:21] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:27:07] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:30:04] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:32:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:34:44] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:35:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:36:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:38:13] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: Unsupported image object
+ERROR:root:Error extracting text from image: Unsupported image object
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 04:38:42] "[36mPOST /upload HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:02:40] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:11:25] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:16:38] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:19:05] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:20:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:21:09] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Missing files in request
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:21:15] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:22:06] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:23:19] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:23:34] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:23:37] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:23:49] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:24:12] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:24:28] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:25:10] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:25:27] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:25:33] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:26:00] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:26:27] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:26:43] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:27:00] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:27:06] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:27:29] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+ERROR:root:Error extracting text from image: 'str' object has no attribute 'getvalue'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:28:21] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 554
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:30:14] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:30:30] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:31:01] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:33:23] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:33:49] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:36:36] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:36:48] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:36:51] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:37:08] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:37:18] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:37:35] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:38:01] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:38:18] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:38:32] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:38:45] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:41:08] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:41:22] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:41:24] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:41:30] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:41:37] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:41:45] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:42:05] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:42:10] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error converting image to PNG: a bytes-like object is required, not 'FileStorage'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'NoneType'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:42:13] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:43:28] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+ERROR:root:Error extracting text from image: a bytes-like object is required, not 'str'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:43:40] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 554
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 555
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:44:17] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 554
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:44:36] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 553
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 554
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:44:47] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 554
+ERROR:root:Error extracting text from image: 'ParsedResults'
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 555
+ERROR:root:Error extracting text from image: 'ParsedResults'
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:45:13] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 476
+DEBUG:root:Extracted text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 405
+DEBUG:root:Extracted text: PROOF
+, 23000
+
+DEBUG:root:Payment Text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:root:Proof Text: PROOF
+, 23000
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:46:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 476
+DEBUG:root:Extracted text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 405
+DEBUG:root:Extracted text: PROOF
+, 23000
+
+DEBUG:root:Payment Text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:root:Proof Text: PROOF
+, 23000
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:46:51] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 476
+DEBUG:root:Extracted text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 405
+DEBUG:root:Extracted text: PROOF
+, 23000
+
+DEBUG:root:Payment Text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:root:Proof Text: PROOF
+, 23000
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 05:48:24] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 06:35:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 06:38:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 06:38:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 06:40:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 07:23:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': '22-10-2010', 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 07:40:03] "POST /upload HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 476
+DEBUG:root:Extracted text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 405
+DEBUG:root:Extracted text: PROOF
+, 23000
+
+DEBUG:root:Payment Text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:root:Proof Text: PROOF
+, 23000
+
+DEBUG:root:Extracted details: {'p_date': '12-03-2024', 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 07:41:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 476
+DEBUG:root:Extracted text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 405
+DEBUG:root:Extracted text: PROOF
+, 23000
+
+DEBUG:root:Payment Text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:root:Proof Text: PROOF
+, 23000
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': 'ABCDE1234567'}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 07:43:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+ERROR:root:Error extracting text from image: HTTPSConnectionPool(host='api.ocr.space', port=443): Max retries exceeded with url: /parse/image (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255A2247CD0>: Failed to resolve 'api.ocr.space' ([Errno 11001] getaddrinfo failed)"))
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+ERROR:root:Error extracting text from image: HTTPSConnectionPool(host='api.ocr.space', port=443): Max retries exceeded with url: /parse/image (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255A2273790>: Failed to resolve 'api.ocr.space' ([Errno 11001] getaddrinfo failed)"))
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:01:41] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+ERROR:root:Error extracting text from image: HTTPSConnectionPool(host='api.ocr.space', port=443): Max retries exceeded with url: /parse/image (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255A2285C10>: Failed to resolve 'api.ocr.space' ([Errno 11001] getaddrinfo failed)"))
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+ERROR:root:Error extracting text from image: HTTPSConnectionPool(host='api.ocr.space', port=443): Max retries exceeded with url: /parse/image (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255A2286AD0>: Failed to resolve 'api.ocr.space' ([Errno 11001] getaddrinfo failed)"))
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:02:47] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\bills.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 476
+DEBUG:root:Extracted text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 405
+DEBUG:root:Extracted text: PROOF
+, 23000
+
+DEBUG:root:Payment Text: DATE
+12-03-2024
+123456ABCDEF
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+Q3000
+
+DEBUG:root:Proof Text: PROOF
+, 23000
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:03:11] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:03:23] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:07:59] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:08:35] "POST /upload HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 507
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:08:38] "POST /upload HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:08:38] "POST /upload HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:08:39] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:09:04] "POST /upload HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 507
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:09:10] "POST /upload HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:09:11] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:09:59] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 507
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:10:58] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:16:41] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:23:48] "POST /upload HTTP/1.1" 200 -

@@ -58,13 +58,15 @@ export default function Home() {
                 </div>
               </div>
             </Link>
-            <div className="cursor-pointer flex flex-col w-[300px]">
-              <Image src={"/audit.webp"} width={300} height={500} className="object-cover h-[425px]" alt="ebill" />
-              <div className="flex flex-col bg-white h-32 justify-center items-center p-9">
-                <h4 className="text-[#d945c1] text-2xl">AUDIT</h4>
-                <p className="text-black text-center">TRACK INTERNAL AUDITS AND PERFORM YEAR END AUDIT</p>
+            <Link href={`/audit`}>
+              <div className="cursor-pointer flex flex-col w-[300px]">
+                <Image src={"/audit.webp"} width={300} height={500} className="object-cover h-[425px]" alt="ebill" />
+                <div className="flex flex-col bg-white h-32 justify-center items-center p-9">
+                  <h4 className="text-[#d945c1] text-2xl">AUDIT</h4>
+                  <p className="text-black text-center">TRACK INTERNAL AUDITS AND PERFORM YEAR END AUDIT</p>
+                </div>
               </div>
-            </div>
+            </Link>
             <Link href={`/view`}>
               <div className="cursor-pointer flex flex-col w-[300px]">
                 <Image src={"/view.png"} width={300} height={500} className="object-cover h-[425px]" alt="ebill" />

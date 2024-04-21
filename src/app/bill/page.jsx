@@ -3,6 +3,7 @@
 import { LogoIcon } from '@/components/Icons';
 import Image from 'next/image';
 import { useState } from 'react';
+import { ToastContainer, toast } from 'react-toastify';
 
 const page = () => {
     const [selectedImage, setSelectedImage] = useState(null);
@@ -45,14 +46,21 @@ const page = () => {
             }
 
             const data = await response.json();
-            console.log(data);
+            if (response.status === 200) {
+                notifySuccess(data?.message);
+            }
         } catch (error) {
             console.error('There was a problem with the fetch operation:', error);
         }
     };
 
+    const notifySuccess = (message) => toast.success(message, {
+        position: "top-right",
+    });
+
     return (
         <>
+            <ToastContainer />
             <nav class="bg-[#2C1E4A] h-12 text-end text-sm fixed w-full text-white top-0 z-10 py-4 px-5">
                 <ul class="flex gap-8 justify-end">
                     <li>Home </li>
