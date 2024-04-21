@@ -1,9 +1,20 @@
 import { EyeIcon } from '@/components/Icons'
+import Link from 'next/link'
 import React from 'react'
 
 const page = () => {
     return (
         <>
+            <nav class="bg-[#2C1E4A] h-12 text-end text-sm fixed w-full text-white top-0 z-10 py-4 px-5">
+                <ul class="flex gap-8 justify-end">
+                    <li><Link href={"/"}>Home</Link></li>
+                    <li><Link href={"/bill"}>Bills</Link></li>
+                    <li><Link href={"/audit"}>Audit</Link></li>
+                    <li><Link href={"/chat"}>FAQs</Link></li>
+                    <li><Link href={"/chat"}>Help</Link></li>
+                    <li><Link href={"/view"}>View</Link></li>
+                </ul>
+            </nav>
             <div className='bg-[#0d0149] h-screen w-screen  flex justify-center items-center flex-col gap-6 relative'>
                 <EyeIcon className={'absolute top-32'} />
                 <h1 className='text-[#9f8bff] text-8xl font-serif mt-24'>ITS YEAR END!</h1>

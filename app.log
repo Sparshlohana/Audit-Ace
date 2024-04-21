@@ -2252,3 +2252,15 @@ Total Amount
 DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
 DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
 INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 08:23:48] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\options.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\options.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955
+INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\odit\\Audit-Ace\\python\\chat.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 813-612-955

@@ -9,12 +9,12 @@ export default function Home() {
       <Background />
       <nav class="bg-[#2C1E4A] h-12 text-end text-sm fixed w-full text-white top-0 z-10 py-4 px-5">
         <ul class="flex gap-8 justify-end">
-          <li>Home </li>
-          <li>About</li>
-          <li>Services</li>
-          <li>FAQs</li>
-          <li>Review</li>
-          <li>Help</li>
+          <li><Link href={"/"}>Home</Link></li>
+          <li><Link href={"/bill"}>Bills</Link></li>
+          <li><Link href={"/audit"}>Audit</Link></li>
+          <li><Link href={"/chat"}>FAQs</Link></li>
+          <li><Link href={"/chat"}>Help</Link></li>
+          <li><Link href={"/view"}>View</Link></li>
         </ul>
       </nav>
       <div class=" flex text-white items-end px-36 py-20 mt-10">
@@ -109,7 +109,9 @@ export default function Home() {
           </div>
           <div className="flex flex-col gap-5 mx-36 ">
             <Image src={'/bot.png'} height={350} width={350} alt="bot" />
-            <button className="text-white mr-5 text-4xl">CHAT WITH BOT</button>
+            <button className="text-white mr-5 text-4xl">
+              <Link href={"/chat"}> CHAT WITH BOT </Link>
+            </button>
           </div>
         </div>
       </div >

@@ -2,6 +2,7 @@
 
 import { LogoIcon } from '@/components/Icons';
 import Image from 'next/image';
+import Link from 'next/link';
 import { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 
@@ -63,12 +64,12 @@ const page = () => {
             <ToastContainer />
             <nav class="bg-[#2C1E4A] h-12 text-end text-sm fixed w-full text-white top-0 z-10 py-4 px-5">
                 <ul class="flex gap-8 justify-end">
-                    <li>Home </li>
-                    <li>About</li>
-                    <li>Services</li>
-                    <li>FAQs</li>
-                    <li>Review</li>
-                    <li>Help</li>
+                    <li><Link href={"/"}>Home</Link></li>
+                    <li><Link href={"/bill"}>Bills</Link></li>
+                    <li><Link href={"/audit"}>Audit</Link></li>
+                    <li><Link href={"/chat"}>FAQs</Link></li>
+                    <li><Link href={"/chat"}>Help</Link></li>
+                    <li><Link href={"/view"}>View</Link></li>
                 </ul>
             </nav>
             <div style={{ backgroundImage: "url('bill-bg.jpg')" }} class="flex text-white px-20 py-8 mt-10 h-screen  w-full gap-20 shadow-2xl" >
