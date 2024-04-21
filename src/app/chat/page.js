@@ -18,7 +18,7 @@ const FinancialBot = () => {
 
     const handleConfirmation = (choice) => {
         if (choice === 'no') {
-            // Redirect to the home page
+            // Redirect to the home Page
             router.push('/');
         } else {
             // Handle other choices if necessary
