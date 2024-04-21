@@ -2264,3 +2264,105 @@ INFO:werkzeug: * Detected change in 'c:\\Users\\words\\OneDrive\\Desktop\\ALL\\o
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 813-612-955
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 13:41:08] "POST /upload HTTP/1.1" 200 -
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 30678
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 62 1268
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 1342 88870
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 477
+DEBUG:root:Extracted text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.ocr.space:443
+DEBUG:urllib3.connectionpool:https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 506
+DEBUG:root:Extracted text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Payment Text: DATE
+22-10-2010
+ABCDEF123456
+ACCOUNT NUMBER
+ABCDE1234567
+AMOUNT
+098765
+
+DEBUG:root:Proof Text: PAYMENT BILL
+PROOF
+Description
+Bank Details
+ACCO unt NO.
+ABCDEF123456
+UNIT
+Total Amount
+23456
+
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+DEBUG:root:Extracted details: {'p_date': None, 'p_amt': None, 'p_dr_ac_no': None, 'p_cr_ac_no': None}
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 13:55:36] "POST /upload HTTP/1.1" 200 -
