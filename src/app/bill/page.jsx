@@ -6,7 +6,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 
-const page = () => {
+const Page = () => {
     const [selectedImage, setSelectedImage] = useState(null);
     const [selectedProof, setSelectedProof] = useState(null);
 
@@ -179,4 +179,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page

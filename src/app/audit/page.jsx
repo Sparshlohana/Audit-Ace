@@ -2,7 +2,7 @@ import { AuditIcon, HistoryIcon, ManualIcon, NormalIcon, SuspiciousIcon, UserIco
 import Link from 'next/link'
 import React from 'react'
 
-const page = () => {
+const Page = () => {
     return (
         <>
             <nav class="bg-[#2C1E4A] h-12 text-end text-sm fixed w-full text-white top-0 z-10 py-4 px-5">
@@ -56,4 +56,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page
